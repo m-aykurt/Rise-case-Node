@@ -2,7 +2,7 @@
 
 
 
-## Desc
+## Description
 
 I use react, Redux Toolkit, styled components , Scss. Also this project has responsive support.
 
