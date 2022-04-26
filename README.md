@@ -23,8 +23,11 @@ For starting frontend
 ```bash
 cd client
 npm install
+npm start
 ```
 
+
+I use react, Redux Toolkit, styled components , Scss. Also this project has responsive support.
 
 
 
