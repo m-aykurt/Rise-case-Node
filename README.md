@@ -28,10 +28,3 @@ npm install
 
 
 
-```bash
-docker run -p 3000:3000 \
-  -e CONTENTFUL_SPACE_ID=<SPACE_ID> \
-  -e CONTENTFUL_DELIVERY_TOKEN=<DELIVERY_ACCESS_TOKEN> \
-  -e CONTENTFUL_PREVIEW_TOKEN=<PREVIEW_ACCESS_TOKEN> \
-  -d the-example-app.nodejs
-```
